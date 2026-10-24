@@ -1,0 +1,27 @@
+
+# Node.js dependencies
+node_modules/
+
+# Test coverage
+coverage/
+
+# Build output (if generated as temporary output)
+dist/
+build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE-local settings
+.vscode/
