@@ -48,7 +48,6 @@
 Після створення JavaScript-проєкту та налаштування `package.json`:
 
 ```powershell
-cd hello-world
 npm install
 npm run build
 npm test
